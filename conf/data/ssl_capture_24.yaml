@@ -1,4 +1,4 @@
-data_root: /data/UKBB/SSL/ssl_capture_24
+data_root: /kaggle/working/ssl-wearables/ssl_capture_24
 train_data_root: "${data.data_root}/data/train"
 test_data_root: "${data.data_root}/data/test"
 train_file_list: "${data.train_data_root}/file_list.csv"
